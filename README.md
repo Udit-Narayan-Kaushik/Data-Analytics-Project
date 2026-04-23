@@ -1,4 +1,3 @@
-# Projects
 # Sales & Customer Analytics Project
 
 
