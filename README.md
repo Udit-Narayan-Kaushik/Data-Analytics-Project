@@ -19,6 +19,7 @@
 
 ## Project Structure
 
+```
 ├── sql_scripts/
 │   ├── 01_data_cleaning_segmentation.sql    # Data_Segmentation.sql logic
 │   ├── 02_product_performance_metrics.sql   # Product_Report.sql logic
@@ -42,12 +43,12 @@
 │       └── page3_inventory_health.pdf
 ├── data_assets/
 │   ├── raw/                                 # Original source files
-│   ├── processed/                           # Final .csv outputs used in chat
-│   └── data_dictionary.md                   # Column definitions and units
+│   ├── processed/                           # Final .csv outputs
+│   └── data_dictionary.md                   # Column definitions
 └── documentation/
-    ├── analysis_summary.md                  # Final insights and methodology
+    ├── analysis_summary.md                  # Methodology
     └── business_recommendations.pdf         # Strategy for stakeholders
-
+```
 
 # Key Findings
 
