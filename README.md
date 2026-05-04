@@ -1,16 +1,15 @@
 # Sales & Customer Analytics Project
-## Analysed customer behaviour and product trend across 18.4K users and $29.36M in revenue.
+Analysed customer behaviour and product trend across 18.4K users and $29.36M in revenue.
 
 # The Business Problem:
-
-### An international retailer with 18,469 customers and $29.36M in revenue faced extreme category dependency. While 96.5% of revenue was driven by high-cost bikes, the brand struggled to convert its 80.2% "New" customer base into repeat buyers for high-margin accessories.
+An international retailer with 18,469 customers and $29.36M in revenue faced extreme category dependency. While 96.5% of revenue was driven by high-cost bikes, the brand struggled to convert its 80.2% "New" customer base into repeat buyers for high-margin accessories.
 
 # The business needed to identify:
 
-### . Where is the customer lifecycle stalling?  
-### . How can we unlock hidden profit in lower-tier inventory? 
-### . Why are "High-Performer" products becoming stagnant? 
-### . What is the "Profit Gap" between volume and value? 
+#### . Where is the customer lifecycle stalling?  
+#### . How can we unlock hidden profit in lower-tier inventory? 
+#### . Why are "High-Performer" products becoming stagnant? 
+#### . What is the "Profit Gap" between volume and value? 
 
 ## Visuals
 
@@ -52,22 +51,22 @@
 
 # Key Findings
 
-### . Key InsightsThe 96% Category Concentration: Bikes generate $28.3M of the total revenue, creating a significant risk if bike market demand fluctuates.  
-### . High-Margin Opportunity: Accessories and Clothing carry margins of 60%+, yet they currently represent only 3.5% of the total sales volume.  
-### . Massive New Lead Base: 14,815 customers are currently in the "New" category, providing a massive pool for retention-focused marketing. 
-### . Inventory Stagnation: 66 high-revenue products have zero sales in the last 12 months, tying up capital that could be reinvested in mid-range stock. 
-### . VIP Engagement Gap: 137 VIP customers are "one-time high spenders" with low order counts, indicating a failure in the post-purchase service funnel. 
+#### . Key InsightsThe 96% Category Concentration: Bikes generate $28.3M of the total revenue, creating a significant risk if bike market demand fluctuates.  
+#### . High-Margin Opportunity: Accessories and Clothing carry margins of 60%+, yet they currently represent only 3.5% of the total sales volume.  
+#### . Massive New Lead Base: 14,815 customers are currently in the "New" category, providing a massive pool for retention-focused marketing. 
+#### . Inventory Stagnation: 66 high-revenue products have zero sales in the last 12 months, tying up capital that could be reinvested in mid-range stock. 
+#### . VIP Engagement Gap: 137 VIP customers are "one-time high spenders" with low order counts, indicating a failure in the post-purchase service funnel. 
 
 
 # Business Recommendations
 
-### . Implement "High-Margin Bundling": Force-bundle 62.8% margin accessories with every bike sale to increase the current $1.04M non-bike revenue pool.  
-### . Launch New-to-Regular Conversion: Targeted 3-phase email sequence for the 14,815 New customers at the 6-month mark to prevent churn. 
-### . VIP Reactivation Campaign: Offer "Complimentary First Service" to the 137 low-engagement VIPs to secure high-margin aftermarket sales. 
-### . Inventory Liquidation: Discount the 66 "Dead Stock" items to clear warehouse space for the more balanced $500–$1,500 product segment. 
+#### . Implement "High-Margin Bundling": Force-bundle 62.8% margin accessories with every bike sale to increase the current $1.04M non-bike revenue pool.  
+#### . Launch New-to-Regular Conversion: Targeted 3-phase email sequence for the 14,815 New customers at the 6-month mark to prevent churn. 
+#### . VIP Reactivation Campaign: Offer "Complimentary First Service" to the 137 low-engagement VIPs to secure high-margin aftermarket sales. 
+#### . Inventory Liquidation: Discount the 66 "Dead Stock" items to clear warehouse space for the more balanced $500–$1,500 product segment. 
 
 # Tools Used
 
-### MySQL: CTEs, CASE WHEN, LAG(), TIMESTAMPDIFF
-### Python: Pandas for Margin Analysis, Seaborn for Data Visualization
-### Analytics: Customer Lifespan Analysis, Inventory Aging, Gross Margin Optimization
+#### MySQL: CTEs, CASE WHEN, LAG(), TIMESTAMPDIFF
+#### Python: Pandas for Margin Analysis, Seaborn for Data Visualization
+#### Analytics: Customer Lifespan Analysis, Inventory Aging, Gross Margin Optimization
